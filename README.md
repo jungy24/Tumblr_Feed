@@ -2,4 +2,4 @@
 
 Required user stories for week 1 & 2 complete.
 
-![tumblrgif](https://user-images.githubusercontent.com/21361861/32976169-4def0bc8-cbdf-11e7-9ace-ce1d7dc4c046.gif)
+![week 2 tumblr](https://user-images.githubusercontent.com/21361861/33227121-4cbaacea-d16a-11e7-993c-efd0b350e42c.gif)
